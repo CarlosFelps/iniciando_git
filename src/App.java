@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) {
-        
+      /*   
         //Declarando Variavel
         boolean a = true;
         boolean b = false;
@@ -9,6 +9,11 @@ public class App {
         boolean resultado = a ^ b;
 
         System.out.println("Resultado do XOR: " + resultado);
+    */
+
         
+
+
+
     }
 }
