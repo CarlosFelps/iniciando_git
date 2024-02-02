@@ -1,6 +1,7 @@
 public class App {
     public static void main(String[] args) {
         
+        //Declarando Variavel
         boolean a = true;
         boolean b = false;
         
